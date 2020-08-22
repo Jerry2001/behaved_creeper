@@ -15,7 +15,7 @@ The data pack offer a few in-game functions to modify the creeper:
     - `radius3`: changes the explosion radius to 3 
 * **Change the time before the explosion:**
     - `fuse30`: changes the time before the explosion to 1.5s
-    - `fuse60`: changes the time before the explosion to 1.5s
+    - `fuse60`: changes the time before the explosion to 3s
 * **Change whether the game uses the data pack disc lootable or the original lootable :**
     - `disabledisc`: make creeper able to drop a music disc only when killed by a skeleton 
     - `enabledisc`: make creeper able to drop a music disc on death
